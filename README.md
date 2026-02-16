@@ -116,9 +116,15 @@ Cash Flow Statement
 
 
 Learning Outcome
+
 This project strengthened practical understanding of:
+
 Financial statement interconnectivity
+
 Working capital impact on cash flow
+
 Forecast modeling used in FP&A and analyst roles
+
 Translating numbers into business insight
+
 
